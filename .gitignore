@@ -1,0 +1,6 @@
+kit/
+kit.zip
+prompt.txt
+*.tar.gz
+*-out.txt
+*-err.txt
